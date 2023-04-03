@@ -1,0 +1,15 @@
+{
+  "name": "violence-project-data",
+  "version": "0.0.0",
+  "description": "Scripts for normalizing and analyzing the violence project excel database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "xlsx": "^0.18.5"
+  }
+}
